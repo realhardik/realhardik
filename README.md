@@ -1,7 +1,5 @@
 ## Independent Developer
 
-## Portfolio
-[https://hardikgandhi.me](https://hardikgandhi.me "Portfolio")
 
 ![Sonoma Evening](/images/sonoma-horizon.jpeg)
 
